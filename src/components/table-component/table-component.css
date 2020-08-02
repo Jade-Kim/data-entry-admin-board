@@ -1,0 +1,63 @@
+h5 {
+  padding: 10px 20px !important;
+}
+
+table {
+  white-space: nowrap;
+  width: auto;
+}
+
+table input {
+  margin: 0 !important;
+  height: 1.8rem !important;
+}
+
+th, td {
+  border-right: 1px dotted silver !important;
+}
+
+th {
+  background: antiquewhite;
+}
+
+.headerTitles th {
+  text-align: center;
+}
+
+.onSort {
+  -moz-box-shadow: inset 0 0 10px orange !important;
+  -webkit-box-shadow: inset 0 0 10px orange !important;
+  box-shadow: inset 0 0 10px orange !important;
+}
+
+.td_menu {
+  width: 100%;
+}
+
+.createdDate, .modifiedDate {
+  background-color: #efebe9;
+}
+
+.delete {
+  background-color: #f9c49a;
+}
+
+.modal {
+  top: 20% !important;
+  width: 70% !important;
+  height: 78% !important;
+}
+
+.addBtns {
+  margin: 50px;
+}
+
+.relatedTable {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.blueColor {
+  color: royalblue;
+}

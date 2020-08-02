@@ -1,0 +1,16 @@
+header {
+  background: white;
+  height: 56px;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+}
+
+main {
+  margin-top: 60px;
+}
