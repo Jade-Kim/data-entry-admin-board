@@ -1,4 +1,8 @@
-# Stencil App Starter
+# Admin board app for managing data tables
+![main](https://user-images.githubusercontent.com/49656942/89130077-5fd72a00-d4bf-11ea-8ead-e03717e04526.png)
+
+
+## Made with Stencil JS 
 
 Stencil is a compiler for building fast web apps using Web Components.
 
